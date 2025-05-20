@@ -30,6 +30,7 @@ module load cuda/11.7
 
 2. **Create Virtual Environment**
 ```bash
+# Create venv in project directory
 python -m venv venv
 source venv/bin/activate
 
